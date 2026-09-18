@@ -1,5 +1,0 @@
-[lfs]
-	standalonetransferagent = s3-sso
-[lfs "customtransfer.s3-sso"]
-	path = git-lfs-s3-agent
-	args = --bucket s3-test2-lfs --profile dvc-sso --prefix lfs
